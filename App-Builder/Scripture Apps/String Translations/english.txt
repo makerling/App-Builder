@@ -1,0 +1,556 @@
+# String Translations
+# Scripture App Builder 3.5
+# Created: 26-Oct-2017 11:22:49
+
+[Translations]
+
+$ Menu_Search
+en: Search
+fr: Rechercher
+es: Buscar
+pt: Pesquisar
+ru: Поиск
+uk: Пошук
+id: Penelusuran
+zh: 搜索
+
+$ Menu_Settings
+en: Settings
+fr: Paramètres
+es: Configuración
+pt: Configurações
+ru: Настройки
+uk: Налаштування
+zh: 设置
+
+$ Menu_About
+en: About
+fr: A propos
+es: Acerca de
+pt: Sobre
+ru: О программе
+uk: Про програму
+id: Seputar
+zh: 关于
+
+$ Menu_Text_Size
+en: Text Size
+fr: Taille de police
+es: Tamaño de texto
+pt: Tamanho do texto
+ru: Размер текста
+uk: Розмір тексту
+id: Ukuran teks
+zh: 文字大小
+
+$ Menu_Share_App
+en: Share App
+fr: Partager application
+es: Compartir aplicación
+pt: Compartilhar aplicativo
+
+$ Menu_Edit
+en: Edit
+fr: Editer
+es: Editar
+pt: Editar
+ru: Редактировать
+uk: Редаргувати
+id: Sunting
+zh: 编辑
+
+$ Menu_Access_Code
+en: Generate Access Code
+
+$ Button_OK
+en: OK
+fr: OK
+es: OK
+pt: OK
+ru: OK
+uk: OK
+zh: 行
+
+$ Button_Yes
+en: Yes
+fr: Oui
+es: Si
+pt: Sim
+ru: Да
+uk: Так
+zh: 是
+
+$ Button_No
+en: No
+fr: Non
+es: No
+pt: Não
+ru: Нет
+uk: Ні
+zh: 不是
+
+$ Button_Close
+en: Close
+fr: Fermer
+es: Cerrar
+pt: Fechar
+ru: Закрыть
+uk: Закрити
+id: Tutup
+zh: 关闭
+
+$ Button_Cancel
+en: Cancel
+fr: Annuler
+es: Cancelar
+pt: Cancelar
+ru: Отменить
+uk: Скасувати
+id: Batal
+zh: 取消
+
+$ Button_Submit
+en: Submit
+fr: Soumettre
+
+$ Grandroid_Load_Fail
+en: Sorry, the text may not display correctly on this device.
+es: Lo siento, el texto no puede ser mostrado correctamente en este dispositivo.
+pt: Infelizmente o texto pode não ser exibido corretamente neste dispositivo.
+ru: Извините, на этом устройстве текст может отображаться некорректно
+uk: Вибачте, текст може відображатися некоректно на цьому пристрої
+zh: 文本无法在此设备上正确地显示。
+
+$ Grandroid_Load_Fail_42_43_Intel
+en: Sorry, the text may not display correctly on Intel devices for Android 4.2 or 4.3.
+es: Lo siento, el texto no puede ser mostrado correctamente en dispositivos Intel para Android 4.2 o 4.3.
+pt: Infelizmente o texto pode não ser exibido corretamente em dispositivos Intel para Android 4.2 ou 4.3.
+ru: Извините, на устройствах на базе Intel + Android 4.2 или 4.3 текст может отображаться некорректно
+uk: Вибачте, текст може відображатися некоректно на пристроях Intel під керуванням Android 4.2 або 4.3
+zh: 文本无法为安卓4.2或4.3的英特尔设备上正确地显示。
+
+$ Grandroid_Load_Fail_42_43_Other
+en: Sorry, the text may not display correctly on this device for Android 4.2 or 4.3.
+es: Lo siento, el texto no puede ser mostrado correctamente en dispositivos Intel para Android 4.2 o 4.3.
+pt: Infelizmente o texto pode não ser exibido corretamente neste dispositivo para Android 4.2 ou 4.3.
+ru: Извините, текст может отображаться некорректно, если данное устройство работает под управлением ОС Android 4.2 или 4.3
+uk: Вибачте, текст може відображатися некоректно, якщо цей пристрій працює під керуванням ОС Android 4.2 або 4.3
+zh: 文本无法为安卓4.2或4.3的设备上正确地显示。
+
+$ Search
+en: Search
+fr: Recherche
+es: Búsqueda
+pt: Pesquisar
+ru: Поиск
+uk: Пошук
+id: Penelusuran
+zh: 搜索
+
+$ Search_Text_Hint
+en: Search
+fr: Recherche
+es: Búsqueda
+pt: Pesquisar
+ru: найти...
+uk: знайти...
+id: Penelusuran
+zh: 搜索
+
+$ Search_Match_Whole_Words
+en: Match whole words
+fr: Mots entiers
+es: Palabras completas
+pt: Palavras Inteiras
+ru: Слова целиком
+uk: Цілі слова
+id: Semua kata cocok
+zh: 全字匹配
+
+$ Search_Match_Accents
+en: Match accents and tones
+fr: Accents et tons
+es: Acentos y tonos
+pt: Acentos e Tons
+ru: С учётом ударений и тонов
+uk: З урахуванням знаків наголосу й тонів
+id: Aksen dan bunyi cocok
+zh: 比赛的口音和色调
+
+$ Search_Searching
+en: Searching...
+fr: Recherche en cours...
+es: Buscando...
+pt: Pesquisando...
+ru: Идёт поиск...
+uk: Пошук триває...
+id: Penelusuran...
+zh: 正在搜索…
+
+$ Search_Number_Found
+en: Found: %,d
+fr: Nombre : %,d
+es: Encontrados: %,d
+pt: Encontrado: %,d
+ru: Найдено: %,d
+uk: Знайдено: %,d
+id: Ditemukan: %,d
+zh: 找到
+
+$ Search_No_Matches_Found
+en: No matches found
+fr: Aucun résultat trouvé
+es: No se encontró ninguna coincidencia
+pt: Nenhum resultado encontrado
+ru: Ничего не найдено
+uk: Немає відповідників
+id: Tidak ditemukan
+zh: 没有找到匹配
+
+$ Search_Again_Button
+en: Search
+fr: Recherche
+es: Búsqueda
+pt: Pesquisar
+ru: Искать
+uk: Шукати
+id: Telusur
+zh: 搜索
+
+$ Search_Cancel_Button
+en: Cancel
+fr: Annuler
+es: Cancelar
+pt: Cancelar
+ru: Отменить
+uk: Скасувати
+id: Batal
+zh: 取消
+
+$ Audio_Download_Title
+en: Audio Download
+fr: Téléchargement audio
+es: Descarga de audio
+pt: Download de áudio
+ru: Загрузка аудио
+uk: Завантаження аудіо
+zh: 音频下载
+
+$ Audio_Download_Confirm
+en: Download audio file?
+fr: Télécharger fichier audio?
+es: ¿Descargar archivo de audio?
+pt: Baixar arquivo de áudio?
+ru: Загрузить аудио файл?
+uk: Завантажити аудіо файл?
+zh: 下载音频文件吗？
+
+$ Audio_Download_Auto
+en: Download automatically from now on
+fr: Télécharger automatiquement à partir de maintenant
+es: Siempre descargar audio automáticamente
+pt: Baixar automaticamente a partir de agora
+ru: В дальнейшем загружать автоматически
+uk: Надалі завантажувати автоматично
+zh: 后来自动下载
+
+$ Audio_Download_Connect
+en: To download audio files, please connect to the internet.
+fr: Pour télécharger les fichiers audio, veuillez vous connecter à l'internet
+es: Para descargar archivos de audio, favor  conectarse a internet
+pt: Para baixar arquivos de áudio, conecte-se à Internet.
+ru: Для загрузки аудио файлов, пожалуйста, подключитесь к интернету
+uk: Щоб завантажити аудіо файли, будь ласка, під'єднайтеся до інтернету
+zh: 下载的音频文件，请连接到互联网。
+
+$ Audio_Download_Error
+en: Download Error:
+fr: Erreur de téléchargement :
+es: Error de descarga:
+pt: Erro de download:
+ru: Ошибка загрузки
+uk: Помилка завантаження
+zh: 下载错误：
+
+$ Audio_Downloading
+en: Downloading %book %chapter...
+fr: Téléchargement de %book %chapter...
+es: Descargando %book %chapter...
+pt: Carregando %book %chapter...
+ru: Загружается %book %chapter...
+uk: Завантажується %book %chapter...
+zh: 正在下载％书％章…
+
+$ Audio_Check_Connection
+en: Please check your internet connection.
+fr: Veuillez vérifier votre connexion internet
+es: Por favor revise su conexión a Internet
+pt: Verifique a sua conexão com a Internet.
+ru: Пожалуйста, проверьте интернет-соединение
+uk: Будь ласка, перевірте інтернет з'єднання
+zh: 请检查您的网络连接。
+
+$ Audio_File_Not_Found
+en: Audio file not found
+fr: Fichier audio introuvable
+es: Archivo no encontrado
+pt: Arquivo de áudio não encontrado
+ru: Аудио файл не найден
+uk: Аудіо файл не знайдено
+zh: 找不到音频文件
+
+$ Audio_Fail_DBT_Location
+en: Failed to get audio download information
+fr: Informations de téléchargement introuvables
+es: No se encontró información sobre la descarga
+pt: Falha ao obter informações para baixar o áudio
+ru: Не удалось найти информацию для загрузки аудио
+uk: Не вдалося отримати інформацію для завантаження аудіо
+zh: 未能获得音频下载信息
+
+$ Selector_Chapter
+en: CHAPTER
+fr: CHAPITRE
+es: CAPÍTULO
+
+$ Selector_Verse
+en: VERSE
+fr: VERSET
+es: VERSÍCULO
+
+$ Share_Apk_File
+en: Share App Installer File
+fr: Partager fichier d'installation de l'appli
+es: Compartir archivo del instalador de aplicacion
+pt: Compartilhar arquivo de instalação do aplicativo
+
+$ Share_Apk_File_Via
+en: Share App via
+fr: Partager application par
+
+$ Share_App_Link
+en: Share Link to App on Google Play
+fr: Partager lien à l'appli sur Google Play
+es: Compartir enlace de la aplicación en Google Play
+pt: Compartilhar link para o aplicativo no Google Play
+
+$ Share_App_Link_Recommend
+en: I can recommend this app:
+fr: Je peux recommander cette application :
+
+$ Share_App_Link_Via
+en: Share Link via
+fr: Partager lien par
+
+$ Settings_Title
+en: Settings
+fr: Paramètres
+es: Configuración
+pt: Configurações
+
+$ Settings_General
+en: General
+fr: Général
+es: General
+pt: Geral
+
+$ Settings_Book_Selection
+en: Book Selection
+fr: Sélection de livres
+es: Selección de Libro
+pt: Seleção de livros
+
+$ Settings_Book_Selection_List
+en: List of book names
+fr: Liste de noms de livres
+es: Lista de nombres de libros
+pt: Lista de livros
+
+$ Settings_Book_Selection_Grid
+en: Grid of book abbreviations
+fr: Grille d'abréviations de livres
+es: Menú de abreviaturas de libros
+pt: Ícones de livros
+
+$ Settings_Red_Letters
+en: Red Letters
+fr: Paroles de Jésus en rouge
+es: Letras rojas
+pt: Letras vermelhas
+
+$ Settings_Red_Letters_Summary
+en: Show the words of Jesus in red
+fr: Afficher les paroles de Jésus en rouge
+es: Mostrar las palabras de Jesus en rojo
+pt: Mostrar as palavras de Jesus em vermelho
+
+$ Settings_Verse_Numbers
+en: Show Verse Numbers
+fr: Afficher numéros de versets
+es: Mostrar números de versículos
+pt: Mostrar números dos versículos
+
+$ Settings_Verse_Layout
+en: Verse Layout
+fr: Mise en page des versets
+es: Diseño de Versículos
+pt: Esboço do versículo
+
+$ Settings_Verse_Layout_Paragraphs
+en: Verses in paragraphs
+fr: Versets en paragraphes
+es: Versículos en párrafos
+pt: Versículos em parágrafos
+
+$ Settings_Verse_Layout_One_Per_Line
+en: One verse per line
+fr: Un verset par ligne
+es: Un versículo por linea
+pt: Um versículo por linha
+
+$ Settings_Verse_Selection
+en: Show Verse Selector
+fr: Montrer sélecteur de versets
+
+$ Song_List_By_Number
+en: BY NUMBER
+fr: PAR NUMÉRO
+
+$ Song_List_By_Title
+en: BY TITLE
+fr: PAR TITRE
+
+$ Book_Group_OT
+en: Old Testament
+fr: Ancien Testament
+es: Antiguo Testamento
+pt: Antigo Testamento
+ru: Ветхий Завет
+uk: Старий Заповіт
+id: Perjanjian Lama
+zh: 旧约
+
+$ Book_Group_NT
+en: New Testament
+fr: Nouveau Testament
+es: Nuevo Testamento
+pt: Novo Testamento
+ru: Новый Завет
+uk: Новий Заповіт
+id: Perjanjian Baru
+zh: 新约
+
+$ Book_Group_DC
+en: Deuterocanonical
+fr: Deutérocanonique
+es: Deuterocanónico
+pt: Deuterocanônicos
+ru: Второканонические книги
+uk: Второканонічні книги
+id: Ulangan
+zh: 次经
+
+$ Layout_Single_Pane
+en: Single Pane
+fr: Volet unique
+es: Un solo panel
+pt: Painel Único
+
+$ Layout_Two_Pane
+en: Two Pane
+fr: Deux volets
+es: Dos paneles
+pt: Painel Duplo
+
+$ Layout_Interlinear
+en: Verse by Verse
+fr: Verset par verset
+es: Versículo por versículo
+pt: Versículo por versículo
+
+$ Editor_Insert
+en: Insert Marker
+fr: Insérer Marqueur
+es: Insertar marcador
+pt: Inserir Marcador
+ru: Вставить маркер
+uk: Вставити мітку
+id: Masukkan penanda
+zh: 插入标记
+
+$ Editor_Insert_Paragraph
+en: Paragraph (\\p)
+fr: Paragraphe (\\p)
+es: Párrafo (\p)
+pt: Parágrafo (\p)
+ru: Абзац (\p)
+uk: Абзац (\p)
+id: Paragraf (\p)
+zh: 段落(\p)
+
+$ Editor_Insert_Poetry
+en: Poetry (\\q1)
+fr: Poesie (\\q1)
+es: Poesía (\q1)
+pt: Poesia (\q1)
+ru: Поэзия (\q1)
+uk: Поезія (\q1)
+id: Puisi (\q1)
+zh: 诗　(\q1)
+
+$ Editor_Insert_SubHeading
+en: Sub Heading (\\s)
+fr: Sous-titre (\\s)
+es: Sub-título (\s)
+pt: Subtítulo (\s)
+ru: Подзаголовок (\s)
+uk: Підзаголовок (\s)
+id: Sub-Judul (\s)
+zh: 副标题(\s)
+
+$ Editor_Insert_Footnote
+en: Footnote (\\f ...\\f*)
+fr: Note (\\f ...\\f*)
+es: Nota al pie de página (\f ...\f*)
+pt: Nota de rodapé (\f ...\f*)
+ru: Сноска (\f... \f*)
+uk: Виноска (\f... \f*)
+id: catatan kaki (\f... \f*)
+zh: 脚注(\f... \f*)
+
+$ Editor_Insert_Other
+en: Other (\\)
+fr: Autre (\\)
+es: Otro (\\)
+pt: Outro (\\)
+id: lain-lain (\\)
+ru: Прочее (\\)
+uk: Решта (\\)
+zh: 其他的(\\)
+
+$ Chapter_Introduction_Title
+en: Introduction
+fr: Introduction
+es: Introducción
+pt: Introdução
+ru: Предисловие
+uk: Передмова
+id: Pengantar
+zh: 引言
+
+$ Chapter_Introduction_Symbol
+en: i
+fr: i
+es: i
+pt: i
+ru: п
+uk: п
+id: i
+zh: 引
+
+$ Settings_Interface_Language
+en: Interface Language
+fr: Langue d'interface
+es: Idioma del interfaz
+pt: Idioma da interface
+
