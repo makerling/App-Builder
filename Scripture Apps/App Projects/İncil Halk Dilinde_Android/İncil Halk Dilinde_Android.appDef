@@ -13,7 +13,7 @@
   <ipa-version build="5" name="1.0" />
 
   <signing>
-    <keystore>/Users/jackblack/App Builder/keystore/HalkDilindeTurkishNTYYY.keystore</keystore>
+    <keystore>App Builder/keystore/HalkDilindeTurkishNTYYY.keystore</keystore>
     <keystore-password>OEB5wTmJzo7iPTZhWnxrV6SouUmFHONF91FtwuyJWLg=</keystore-password>
     <alias>key02_23_2016</alias>
     <alias-password>Inc7b7HrZ9QGNtYgsfv5fsEoHsLNa4iF</alias-password>
