@@ -5350,6 +5350,10 @@
     <image width="1024" height="1024">AppIcon1024x1024.png</image>
   </images>
 
+  <images type="border">
+    <image width="1440" height="2000">B1-col1.png</image>
+  </images>
+
   <images type="drawer">
     <image width="768" height="432">drawable-xhdpi/nav_drawer.png</image>
   </images>
