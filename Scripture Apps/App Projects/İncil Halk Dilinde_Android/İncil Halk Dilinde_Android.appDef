@@ -10,7 +10,7 @@
   <android-sdk min="14" />
   <install-location value="preferExternal" />
   <ipa-filename append-version="true">com.yyy.hadi.ipa</ipa-filename>
-  <ipa-version build="5" name="1.0" />
+  <ipa-version build="6" name="1.0.1" />
 
   <signing>
     <keystore>App-Builder/keystore/HalkDilindeTurkishNTYYY.keystore</keystore>
@@ -42,9 +42,9 @@
 
   <audio-sources>
     <audio-source id="d1" type="download" default="true">
-      <name>Dreamhost-cname-DO-server-ipv6</name>
+      <name>halkdilinde.com-ipv6</name>
       <folder>İncil - Halk Dilinde</folder>
-      <address>http://hadises.fchwiki.com</address>
+      <address>https://halkdilinde.com/dinle</address>
     </audio-source>
   </audio-sources>
 
